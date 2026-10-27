@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO_GITHUB">
+  <a href="https://github.com/Diego-GO-Solis">
     <img src="https://img.shields.io/badge/STATUS-Disponible_para_Proyectos-brightgreen?style=for-the-badge" alt="Status" />
   </a>
 </p>
@@ -39,9 +39,9 @@
 
 ### 🚀 Proyectos Destacados
 
-- ** [OSACOOP R.L.](https://github.com/TU_USUARIO_GITHUB)** — Plataforma web interactiva desarrollada para la cooperativa agrícola de la Península de Osa, orientada al fortalecimiento productivo y difusión de iniciativas locales.
-- ** [TuExpress](https://github.com/TU_USUARIO_GITHUB)** — Aplicación web para la gestión de transportes express y entregas, con mapas interactivos (Leaflet.js), frontend en Angular y API en .NET Core.
-- ** [Agencia M](https://github.com/TU_USUARIO_GITHUB)** — Sistema de gestión comercial y administración automotriz con arquitectura basada en ASP.NET Core Web API, procedimientos almacenados en SQL Server y Angular.
+- ** [OSACOOP R.L.](https://github.com/Diego-GO-Solis)** — Plataforma web interactiva desarrollada para la cooperativa agrícola de la Península de Osa, orientada al fortalecimiento productivo y difusión de iniciativas locales.
+- ** [TuExpress](https://github.com/Diego-GO-Solis)** — Aplicación web para la gestión de transportes express y entregas, con mapas interactivos (Leaflet.js), frontend en Angular y API en .NET Core.
+- ** [Agencia M](https://github.com/Diego-GO-Solis)** — Sistema de gestión comercial y administración automotriz con arquitectura basada en ASP.NET Core Web API, procedimientos almacenados en SQL Server y Angular.
 
 ---
 
