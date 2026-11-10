@@ -50,10 +50,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diego-GO-Solis&theme=tokyonight" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diego-GO-Solis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-GO-Solis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
 
 ---
 
